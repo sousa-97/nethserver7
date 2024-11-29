@@ -1,2 +1,2 @@
-# nethserver7
+# nethserver8
 Instalação, configuração e dicas.
